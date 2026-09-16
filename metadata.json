@@ -1,0 +1,6 @@
+{
+  "name": "KLINPRO v2 - Cleaning Service Workforce Management",
+  "description": "Enterprise cleaning workforce system for 105 workers across 5 teams and 4 client types with biometric attendance, GPS geofencing, mandatory SOP photo upload verification, live supervisor review & geofence map, client star rating, and payroll management.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
